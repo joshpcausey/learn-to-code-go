@@ -9,4 +9,5 @@ import (
 func main() {
 	// Your program's logic goes here
 	fmt.Println(puppy.Bark())
+	fmt.Println(puppy.Barks())
 }
