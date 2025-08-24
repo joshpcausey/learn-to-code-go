@@ -4,3 +4,5 @@ github.com/joshpcausey/puppy v0.0.0-20250821221029-d12c52e533ce h1:HmlJ8SjpXFNxr
 github.com/joshpcausey/puppy v0.0.0-20250821221029-d12c52e533ce/go.mod h1:qahAjaJy2N67S7wyRPrAw1HgS77yg8yXTG+HEvipE/g=
 github.com/joshpcausey/puppy v0.0.0-20250822193100-cf71230d6636 h1:qf9kkxGd9iymyS0RZVuBzx7BSnSFWDk5li+nT1F5uHc=
 github.com/joshpcausey/puppy v0.0.0-20250822193100-cf71230d6636/go.mod h1:od9kkBGRbT9nGIItJG3FBkLgVb0ViJz/OfV+b1TDvuI=
+github.com/joshpcausey/puppy v1.0.1 h1:yvr9IURsx1NvPSiNuYrHtWrkUUbTmUd0Hl9Xf8iUgBA=
+github.com/joshpcausey/puppy v1.0.1/go.mod h1:cjqW69407KsxWnNo42oohgflgu9DXcUyAa1tGMutS3w=
